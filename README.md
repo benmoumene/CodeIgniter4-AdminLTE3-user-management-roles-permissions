@@ -51,7 +51,7 @@ database.default.DBDriver = MySQLi
 ```
 **3.** Run publish auth
 ```bash
-php spark auth:publsih
+php spark auth:publish
 
 Publish Migration? [y, n]: n
 Publish Models? [y, n]: n
